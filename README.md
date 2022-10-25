@@ -29,13 +29,13 @@ Errors in the editor are highlighted:
    > **Note:**
    > Typos are not shown on the scrollbar.
 
-To get information about the error, hover the mouse over the wavy line/stipe on the scrollbar. A popup with details appears, allowing you to [fix](don't forget the hyperlink) the mistake, or perform other actions.
+To get information about the error, hover the mouse over the wavy line/stipe on the scrollbar. A popup with details appears, allowing you to fix the mistake, or perform other actions.
 
-
+![highlighting details](https://github.com/EPprivate/private_repo/blob/main/images/highlighting%20details.png?raw=true)
 
 ### Inspecting errors in the Problems tool window
 
-- In the **Problems** tool window
+In the **Problems** tool window
 
 ![problems tab](https://github.com/EPprivate/private_repo/blob/main/images/problems%20tab.png?raw=true)
 
