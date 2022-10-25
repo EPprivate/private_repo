@@ -33,6 +33,8 @@ To get information about the error, hover the mouse over the wavy line/stipe on 
 
 ![highlighting details](https://github.com/EPprivate/private_repo/blob/main/images/highlighting%20details.png?raw=true)
 
+![highlighting details 2](https://github.com/EPprivate/private_repo/blob/main/images/highlighting%20details%202.png?raw=true)
+
 ### Inspecting errors in the Problems tool window
 
 In the **Problems** tool window
