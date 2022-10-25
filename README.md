@@ -16,12 +16,15 @@ Clicking the widget opens the **Problems** tool window.
 
 ### Inspecting errors in the editor
 
-- Directly in the editor with red/green wavy lines
+Errors in the editor are represented:
+
+- With red/green wavy lines
+
+  ![errors as wavy lines](https://github.com/EPprivate/private_repo/blob/main/images/errors%20as%20wavy%20lines.png?raw=true)
+  
 - As stripes on the scrollbar
 
-![errors as wavy lines](https://github.com/EPprivate/private_repo/blob/main/images/errors%20as%20wavy%20lines.png?raw=true)
-
-![stripes on a scroll bar](https://github.com/EPprivate/private_repo/blob/main/images/stripes%20on%20a%20scroll%20bar.png?raw=true)
+  ![stripes on a scroll bar](https://github.com/EPprivate/private_repo/blob/main/images/stripes%20on%20a%20scroll%20bar.png?raw=true)
 
 ### Inspecting errors in the Problems tool window
 
