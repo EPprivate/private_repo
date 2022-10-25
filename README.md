@@ -37,9 +37,11 @@ To get information about the error, hover the mouse over the wavy line/stipe on 
 
 ### Inspecting errors in the Problems tool window
 
-The **Problems** tool window displays a complete list of mistakes and provides a toolset for fixing errors in a more centralized way.
+The **Problems** tool window displays a complete list of mistakes and provides a toolset for fixing errors in a more centralized way. Each listed problem has an explanation next to it and a number of the line where the error occured.
 
 ![problems tab](https://github.com/EPprivate/private_repo/blob/main/images/problems%20tab.png?raw=true)
+
+To locate a specific mistake in the editor, double-click the desired problem.
 
 ## Resolving errors
 
