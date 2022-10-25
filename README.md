@@ -37,7 +37,7 @@ To get information about the error, hover the mouse over the wavy line/stipe on 
 
 ### Inspecting errors in the Problems tool window
 
-In the **Problems** tool window
+The **Problems** tool window displays a complete list of mistakes and provides a toolset for fixing errors in a more centralized way.
 
 ![problems tab](https://github.com/EPprivate/private_repo/blob/main/images/problems%20tab.png?raw=true)
 
