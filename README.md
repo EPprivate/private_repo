@@ -16,15 +16,22 @@ Clicking the widget opens the **Problems** tool window.
 
 ### Inspecting errors in the editor
 
-Errors in the editor are represented:
+Errors in the editor are highlighted:
 
-- With red/green wavy lines
+- As red/green wavy lines
 
   ![errors as wavy lines](https://github.com/EPprivate/private_repo/blob/main/images/errors%20as%20wavy%20lines.png?raw=true)
   
 - As stripes on the scrollbar
 
   ![stripes on a scroll bar](https://github.com/EPprivate/private_repo/blob/main/images/stripes%20on%20a%20scroll%20bar.png?raw=true)
+  
+   > **Note:**
+   > Typos are not shown on the scrollbar.
+
+To get information about the error, hover the mouse over the wavy line/stipe on the scrollbar. A popup with details appears, allowing you to [fix](don't forget the hyperlink) the mistake, or perform other actions.
+
+
 
 ### Inspecting errors in the Problems tool window
 
