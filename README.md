@@ -4,7 +4,7 @@ While developing an application, IntelliJ IDEA analyzes your code, highlighting 
 
 ## Locating errors
 
-Along with highlighting errors in the editor, IntelliJ IDEA duplicates all related information in a variety of places, making it easier to find and correct the mistakes. All relevant information is displayed on the following elements:
+Along with highlighting errors in the editor, IntelliJ IDEA duplicates all related information in a variety of places, making it easier to find and correct the mistakes. All relevant information is displayed:
 
 ![errors overview](https://github.com/EPprivate/private_repo/blob/main/images/errors%20overview.png?raw=true)
 
