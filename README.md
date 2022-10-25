@@ -8,9 +8,11 @@ Along with highlighting errors in the editor, IntelliJ IDEA duplicates all relat
 
 ![errors overview](https://github.com/EPprivate/private_repo/blob/main/images/errors%20overview.png?raw=true)
 
-The overall error statistics is displayed on the **Inspections** widget, located at the top of the scrollbar. Clicking the widget opens the **Problems** tool window.
+The **Inspections** widget, located at the top of the scrollbar, displays the overall amount of errors in the file.
 
 ![inspections widget](https://github.com/EPprivate/private_repo/blob/main/images/inspections%20widget.png?raw=true)
+
+Clicking the widget opens the **Problems** tool window.
 
 ### Inspecting errors in the editor
 
