@@ -10,6 +10,8 @@ In IntelliJ IDEA, all error-related information is displayed:
 
 Markings in the editor and on the scrollbar can be used for a [brief inspection](#inspecting-errors-in-the-editor). However, if you want to perform a more thorough review, use the [**Problems** tool window](#inspecting-errors-in-the-problems-tool-window).
 
+The **Inspections** widget displays all detected errors
+
 ### Inspecting errors in the editor
 
 Errors in the editor are highlighted:
