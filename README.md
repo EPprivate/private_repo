@@ -1,6 +1,15 @@
 # Reviewing code
 
-While developing an application, IntelliJ IDEA analyzes your code, highlighting the sections that require closer look. In addition to analyzing the code, the system also inspects the natural language, i.e., checks spelling and grammar. All found mistakes are marked in the editor, allowing you to quickly apply changes.
+While developing an application, IntelliJ IDEA analyzes your code, highlighting the sections that require closer look. The system inspects both [programming](https://www.jetbrains.com/help/idea/code-inspection.html) and [natural](https://www.jetbrains.com/help/idea/proofreading.html) languages, checking syntax, spelling, and grammar. All found problems are marked in the editor, allowing you to quickly locate and resolve the issue.
+
+The markings in the editor correspond to inspection severity levels and depend on how serious the detected problem affects your project. The most common indicators are:
+
+- **Error** ![error](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.balloonError.svg) - defines syntax errors.
+- **Warning** ![warning](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.warning.svg) - defines code fragments that might produce bugs or require enhancement.
+- **Grammar Error** ![grammar error](https://resources.jetbrains.com/help/img/idea/2022.2/grazie.icons.grammarError.svg) - defines grammar mistakes.
+- **Typo** ![typo](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.inspectionsTypos.svg) - defines spelling mistakes and typos.
+
+Additional information about inspections severity levels can be found in the [Change inspection severity](https://www.jetbrains.com/help/idea/configuring-inspection-severities.html) section.
 
 ## Locating errors
 
