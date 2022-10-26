@@ -4,17 +4,11 @@ While developing an application, IntelliJ IDEA analyzes your code, highlighting 
 
 ## Locating errors
 
-In IntelliJ IDEA, mistakes are highlighted in the editor, as well as on specific widgets/windows that provide additional control options. All error-related information is displayed:
-
-// IntelliJ IDEA highlights errors directly in the editor and duplicates all related information in a variety of places, making it easier to find and correct the mistakes. All relevant information is displayed:
+In IntelliJ IDEA, all error-related information is displayed:
 
 ![errors overview](https://github.com/EPprivate/private_repo/blob/main/images/errors%20overview.png?raw=true)
 
-The **Inspections** widget, located at the top of the scrollbar, displays the overall amount of errors in the file.
-
-![inspections widget](https://github.com/EPprivate/private_repo/blob/main/images/inspections%20widget.png?raw=true)
-
-Clicking the widget opens the **Problems** tool window.
+Markings in the editor and on the scrollbar can be used for a [brief inspection](#inspecting-errors-in-the-editor). However, if you want to perform a more thorough review, use the [**Problems** tool window](#inspecting-errors-in-the-problems-tool-window).
 
 ### Inspecting errors in the editor
 
@@ -43,7 +37,7 @@ The **Problems** tool window displays a complete list of mistakes and provides a
 
 ![problems tab](https://github.com/EPprivate/private_repo/blob/main/images/problems%20tab.png?raw=true)
 
-The markings in the editor correspond to inspection severity levels and depend on how serious the detected problem affects your project. The most common indicators are:
+The markings in the **Problems** tool window correspond to inspection severity levels and depend on how serious the detected problem affects your project. The most common indicators are:
 
 - **Error** ![error](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.balloonError.svg) - defines syntax errors.
 - **Warning** ![warning](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.warning.svg) - defines code fragments that might produce bugs or require enhancement.
