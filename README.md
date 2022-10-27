@@ -18,14 +18,14 @@ If you want to see the statistics for detected errors, take a look at the **Insp
 
 Inspecting errors in the editor is convenient when there are few of them. Mistakes are highlighted as red/green wavy lines and duplicated with stripes on the scrollbar, which allows you to locate the problem quickly.
 
-![lines and stripes](https://github.com/EPprivate/private_repo/blob/main/images/lines%20and%20stripes.png?raw=true)
+<img src="https://github.com/EPprivate/private_repo/blob/main/images/lines%20and%20stripes.png?raw=true" width="600">
 
 > **Note:**
 > Typos and grammatical errors are not displayed on the scrollbar.
 
-To get information about the error, hover the mouse over the wavy line/stipe on the scrollbar. A popup with details appears, allowing you to fix the mistake, or perform other actions.
+To get information about the error, hover the mouse over the wavy line/stipe on the scrollbar. A popup with details appears, allowing you to fix the mistake.
 
-![highlighting details](https://github.com/EPprivate/private_repo/blob/main/images/highlighting%20details.png?raw=true)
+<img src="https://github.com/EPprivate/private_repo/blob/main/images/highlighting%20details.png?raw=true" width="600">
 
 ### Inspecting errors in the Problems tool window
 
