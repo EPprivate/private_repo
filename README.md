@@ -10,7 +10,7 @@ In IntelliJ IDEA, all error-related information is displayed:
 
 Markings in the editor and on the scrollbar can be used for a [brief inspection](#inspecting-errors-in-the-editor). If you want to perform a more thorough review, use the [**Problems** tool window](#inspecting-errors-in-the-problems-tool-window).
 
-To see the statistics for detected errors, take a look at the **Inspections** widget.
+To see the statistics for detected errors, take a look at the **Inspections** widget. It displays the number of mistakes based on their <a href="severity_levels">severity level</a>.
 
 ![inspections widget](https://github.com/EPprivate/private_repo/blob/main/images/inspections%20widget.png?raw=true)
 
@@ -23,9 +23,11 @@ Inspecting errors in the editor is convenient when there are few of them. Mistak
 > **Note:**
 > Typos and grammatical errors are not displayed on the scrollbar.
 
-To get information about the error, hover the mouse over the wavy line/stipe on the scrollbar. A popup with details appears, allowing you to fix the mistake.
+To get information about the error, hover the mouse over the wavy line/stipe on the scrollbar. A popup with details appears, providing additional information about the mistake.
 
 <img src="https://github.com/EPprivate/private_repo/blob/main/images/highlighting%20details.png?raw=true" width="600">
+
+For information on how to fix mistakes, see the [Resolving errors](#resolving-errors) section.
 
 ### Inspecting errors in the Problems tool window
 
@@ -37,7 +39,7 @@ The **Problems** tool window displays a complete list of mistakes and provides a
 
 As a result, the **Problems** tool window opens.
 
-The markings in the **Problems** tool window correspond to inspection severity levels and depend on how serious the detected problem affects your project. The most common indicators are:
+<a name="severity_levels">The markings in the **Problems** tool window correspond to inspection severity levels and depend on how serious the detected problem affects your project. The most common indicators are:
 
 <img src="https://github.com/EPprivate/private_repo/blob/main/images/problems%20tab.png?raw=true" width="600">
 
@@ -49,6 +51,8 @@ The markings in the **Problems** tool window correspond to inspection severity l
 Additional information about inspections severity levels can be found in the [Change inspection severity](https://www.jetbrains.com/help/idea/configuring-inspection-severities.html) section.
 
 To locate a specific mistake in the editor, double-click the desired problem. Alternatively,
+
+For information on how to fix mistakes, see the [Resolving errors](#resolving-errors) section.
 
 ## Resolving errors
 
