@@ -29,11 +29,17 @@ To get information about the error, hover the mouse over the wavy line/stipe on 
 
 ### Inspecting errors in the Problems tool window
 
-The **Problems** tool window displays a complete list of mistakes and provides a toolset for fixing errors in a more centralized way. Each listed problem has an explanation next to it and a number of the line where the error occured.
+The **Problems** tool window displays a complete list of mistakes and provides a toolset for fixing errors in a more centralized way. Each listed problem has an explanation next to it and a number of the line where the error occured. To open the **Problems** window, do one of the following:
 
-<img src="https://github.com/EPprivate/private_repo/blob/main/images/problems%20tab.png?raw=true" width="600">
+- Click the **Problems** tool below the editor.
+- Click the **Inspections** widget located at the top of the scrollbar.
+- Press `Alt+6`.
+
+As a result, the **Problems** tool window opens.
 
 The markings in the **Problems** tool window correspond to inspection severity levels and depend on how serious the detected problem affects your project. The most common indicators are:
+
+<img src="https://github.com/EPprivate/private_repo/blob/main/images/problems%20tab.png?raw=true" width="600">
 
 - **Error** ![error](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.balloonError.svg) - defines syntax errors.
 - **Warning** ![warning](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.warning.svg) - defines code fragments that might produce bugs or require enhancement.
@@ -42,7 +48,7 @@ The markings in the **Problems** tool window correspond to inspection severity l
 
 Additional information about inspections severity levels can be found in the [Change inspection severity](https://www.jetbrains.com/help/idea/configuring-inspection-severities.html) section.
 
-To locate a specific mistake in the editor, double-click the desired problem.
+To locate a specific mistake in the editor, double-click the desired problem. Alternatively,
 
 ## Resolving errors
 
