@@ -8,9 +8,9 @@ In IntelliJ IDEA, all error-related information is displayed:
 
 ![errors overview](https://github.com/EPprivate/private_repo/blob/main/images/errors%20overview.png?raw=true)
 
-Markings in the editor and on the scrollbar can be used for a [brief inspection](#inspecting-errors-in-the-editor). However, if you want to perform a more thorough review, use the [**Problems** tool window](#inspecting-errors-in-the-problems-tool-window).
+Markings in the editor and on the scrollbar can be used for a [brief inspection](#inspecting-errors-in-the-editor). If you want to perform a more thorough review, use the [**Problems** tool window](#inspecting-errors-in-the-problems-tool-window).
 
-If you want to see the statistics for detected errors, take a look at the **Inspections** widget.
+To see the statistics for detected errors, take a look at the **Inspections** widget.
 
 ![inspections widget](https://github.com/EPprivate/private_repo/blob/main/images/inspections%20widget.png?raw=true)
 
@@ -31,7 +31,7 @@ To get information about the error, hover the mouse over the wavy line/stipe on 
 
 The **Problems** tool window displays a complete list of mistakes and provides a toolset for fixing errors in a more centralized way. Each listed problem has an explanation next to it and a number of the line where the error occured.
 
-![problems tab](https://github.com/EPprivate/private_repo/blob/main/images/problems%20tab.png?raw=true)
+<img src="https://github.com/EPprivate/private_repo/blob/main/images/problems%20tab.png?raw=true" width="600">
 
 The markings in the **Problems** tool window correspond to inspection severity levels and depend on how serious the detected problem affects your project. The most common indicators are:
 
