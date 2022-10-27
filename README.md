@@ -16,13 +16,7 @@ If you want to see the statistics for detected errors, take a look at the **Insp
 
 ### Inspecting errors in the editor
 
-Errors in the editor are highlighted:
-
-- As red/green wavy lines
-
-  ![errors as wavy lines](https://github.com/EPprivate/private_repo/blob/main/images/errors%20as%20wavy%20lines.png?raw=true)
-  
-- As stripes on the scrollbar
+Inspecting errors in the editor is convenient when their numbers are low / there are few of them. Mistakes are highlighted as red/green wavy lines, and marked with stripes on the scrollbar, which allows you to locate and resolve the problem quickly.
 
   ![stripes on a scroll bar](https://github.com/EPprivate/private_repo/blob/main/images/stripes%20on%20a%20scroll%20bar.png?raw=true)
   
