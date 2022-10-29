@@ -65,4 +65,6 @@ For information on how to fix mistakes, see the [Resolving errors](#resolving-er
 
 ## Resolving errors
 
-
+### Fixing errors in the editor
+  
+### Fixing errors in the Problems tool window
