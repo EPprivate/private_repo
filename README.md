@@ -39,16 +39,16 @@ The **Problems** tool window displays a complete list of mistakes and provides a
 
 As a result, the **Problems** tool window opens.
 
-<a name="severity_levels">The markings in the **Problems** tool window correspond to inspection severity levels and depend on how serious the detected problem affects your project. The most common indicators are:
-
 <img src="https://github.com/EPprivate/private_repo/blob/main/images/problems%20tab.png?raw=true" width="600">
+
+<a name="severity_levels">The markings in the **Problems** tool window correspond to inspection severity levels and depend on how serious the detected problem affects your project. The most common indicators are:
 
 - **Error** ![error](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.balloonError.svg) - defines syntax errors.
 - **Warning** ![warning](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.warning.svg) - defines code fragments that might produce bugs or require enhancement.
 - **Grammar Error** ![grammar error](https://resources.jetbrains.com/help/img/idea/2022.2/grazie.icons.grammarError.svg) - defines grammar mistakes.
 - **Typo** ![typo](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.inspectionsTypos.svg) - defines spelling mistakes and typos.
 
-Additional information about inspections severity levels can be found in the [Change inspection severity](https://www.jetbrains.com/help/idea/configuring-inspection-severities.html) section.
+Additional information about inspection severity levels can be found in the [Change inspection severity](https://www.jetbrains.com/help/idea/configuring-inspection-severities.html) section.
 
 To locate a specific mistake in the editor, double-click the desired problem (or select the problem and press `F4`). Alternatively, you can open the editor preview and find the issue there. To do this, click the **Open Editor Preview** button.
 
