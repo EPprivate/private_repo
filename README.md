@@ -50,8 +50,14 @@ As a result, the **Problems** tool window opens.
 
 Additional information about inspections severity levels can be found in the [Change inspection severity](https://www.jetbrains.com/help/idea/configuring-inspection-severities.html) section.
 
-To locate a specific mistake in the editor, double-click the desired problem. Alternatively,
+To locate a specific mistake in the editor, double-click the desired problem. Alternatively, you can open the editor preview and find the issue there. To do this, click the **Open Editor Preview**, and select the problem that you want to inspect.
 
+
+  
+
+  
+The opened pane acts as an normal editor, so you can modify the code or apply available fixes right there.
+  
 For information on how to fix mistakes, see the [Resolving errors](#resolving-errors) section.
 
 ## Resolving errors
