@@ -65,7 +65,7 @@ For information on how to fix mistakes, see the [Resolving errors](#resolving-er
 
 ## Resolving errors
 
-IntelliJ IDEA analyzes all detected problems, provides a description for each error, and offers a way to fix the issue.
+IntelliJ IDEA analyzes all detected problems, provides a description for each error, and offers a way to fix the issue. Mistakes can be resolved either directly in the editor, or in the **Problems** tool window that allows you to process more errors at once.
   
 ### Fixing errors in the editor
   
