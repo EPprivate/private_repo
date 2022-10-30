@@ -31,7 +31,9 @@ For information on how to fix mistakes, see the [Resolving errors](#resolving-er
 
 ### Inspecting errors in the Problems tool window
 
-The **Problems** tool window displays a complete list of mistakes and provides a toolset for fixing errors in a more centralized way. Each listed problem has an explanation next to it and a number of the line where the error occured. To open the **Problems** window, do one of the following:
+The **Problems** tool window displays a complete list of mistakes and provides a toolset for fixing errors in a more centralized way. Each listed problem has an explanation next to it and a number of the line where the error occured.
+
+To open the **Problems** window, do one of the following:
 
 - Click the **Problems** tool below the editor.
 - Click the **Inspections** widget located at the top of the scrollbar.
