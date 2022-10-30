@@ -80,10 +80,11 @@ If there are few errors in your code, you can address the problems directly in t
 	<img src="https://github.com/EPprivate/private_repo/blob/main/images/highlighting%20details%202.png?raw=true" width="350">
 
 3. Click the suggested fix, or press `Alt+Shift+Enter` to resolve the problem.
+
+Alternatively, place the caret at the highlighted line and click the bulb icon [bulb](https://resources.jetbrains.com/help/img/idea/2022.2/app.actions.intentionBulb.svg) that appears near the line counter.
 	
+
+
 If the suggested quick fix is not applicable, you can see other recommendations by clicking the **More actions...** button, or pressing `Alt+Enter`.
-  
->Note:
->Alternatively, (add descriptions of the "lightbulbs" that appear near the line counter when the caret is placed at the line, where the error exists).
-  
+
 ### Fixing errors in the Problems tool window
