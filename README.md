@@ -43,7 +43,7 @@ As a result, the **Problems** tool window opens.
 
 <img src="https://github.com/EPprivate/private_repo/blob/main/images/problems%20tab.png?raw=true" width="600">
 
-<a name="severity_levels">The markings in the **Problems** tool window correspond to inspection severity levels and depend on how serious the detected problem affects your project. The most common indicators are:
+<a name="severity_levels"></a>The markings in the **Problems** tool window correspond to inspection severity levels and depend on how serious the detected problem affects your project. The most common indicators are:
 
 - **Error** ![error](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.balloonError.svg) - defines syntax errors.
 - **Warning** ![warning](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.warning.svg) - defines code fragments that might produce bugs or require enhancement.
@@ -74,7 +74,6 @@ IntelliJ IDEA analyzes all detected problems, provides a description for each er
 If there are few errors in your code, you can address the problems directly in the editor. To fix a mistake, do the following:
   
 1. In the editor, or on the scrollbar, [locate](#inspecting-errors-in-the-editor) the problem that you want to resolve.
-	
 2. Hover the mouse over the highlighted error or a stripe on a scrollbar. A dialog with description of the mistake opens.
 	
 	<img src="https://github.com/EPprivate/private_repo/blob/main/images/highlighting%20details.png?raw=true" width="600">
@@ -95,7 +94,6 @@ Alternatively, place the caret at the highlighted line, click the bulb icon ![bu
 The **Problems** tool window displays all errors that were found in the file you are currently working in, as well as on the project level. To fix the errors, do the following:
 
 1. [Open](#inspecting-errors-in-the-problems-tool-window) the **Problems** tool window.
-
 2. Select the mistake that you want to fix, right-click it, then choose the **Show Quick Fixes** option from the menu. Alternatively, click `Alt+Enter` once the error is selected.
 	
 	<img src="https://github.com/EPprivate/private_repo/blob/main/images/show%20quick%20fixes.png?raw=true" width="600">	
@@ -105,7 +103,6 @@ The **Problems** tool window displays all errors that were found in the file you
 If there are multiple similar problems, you can fix all of them at once. To do this:
 	
 1. Select the mistake that appears multiple times, right-click it, then choose the **Show Quick Fixes** option from the menu. Alternatively, click `Alt+Enter` once the error is selected.
-	
 2. Click the arrow button, then **Apply all '...' fixes in file**.
 
 	<img src="https://github.com/EPprivate/private_repo/blob/main/images/fixing%20multiple%20mistakes.png?raw=true" width="600">
