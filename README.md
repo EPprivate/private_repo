@@ -1,6 +1,6 @@
 # Searching for errors
 
-While working on a project, IntelliJ IDEA analyzes your code, highlighting the sections that require closer look. The system inspects both [programming](https://www.jetbrains.com/help/idea/code-inspection.html) and [natural](https://www.jetbrains.com/help/idea/proofreading.html) languages, checking syntax, spelling, and grammar. All found problems are marked in the editor and duplicated in a variety of other places, allowing you to quickly locate and resolve the issue.
+While working in a file, IntelliJ IDEA analyzes your code, highlighting the sections that require closer look. The system inspects both [programming](https://www.jetbrains.com/help/idea/code-inspection.html) and [natural](https://www.jetbrains.com/help/idea/proofreading.html) languages, checking syntax, spelling, and grammar. All found problems are marked in the editor and duplicated in a variety of other places, allowing you to quickly locate and resolve the issue.
 
 ## Locating errors
 
