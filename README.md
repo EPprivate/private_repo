@@ -89,3 +89,23 @@ Alternatively, place the caret at the highlighted line, click the bulb icon ![bu
 <img src="https://github.com/EPprivate/private_repo/blob/main/images/bulb.png?raw=true" width="500">
 	
 ### Fixing errors in the Problems tool window
+	
+The **Problems** tool window displays all errors that were found in the file you are currently working, as well as on the project level. To fix the errors, do the following:
+
+1. [Open](#inspecting-errors-in-the-problems-tool-window) the **Problems** tool window.
+
+2. Select the mistake that you want to fix, right-click it, then choose the **Show Quick Fixes** option from the menu. Alternatively, click `Alt+Enter` once the error is selected.
+	
+	<img src="https://github.com/EPprivate/private_repo/blob/main/images/show%20quick%20fixes.png?raw=true" width="600">	
+	
+3. Select the appropriate fix from the menu.
+
+If there are multiple similar problems, you can fix all of them at once. To do this:
+	
+1. Select the mistake that appears multiple times, right-click it, then choose the **Show Quick Fixes** option from the menu. Alternatively, click `Alt+Enter` once the error is selected.
+	
+2. Click the arrow button, then **Apply all '...' fixes in file**.
+
+	<img src="https://github.com/EPprivate/private_repo/blob/main/images/fixing%20multiple%20mistakes.png?raw=true" width="600">
+	
+As a result, all similar problems are fixed.
