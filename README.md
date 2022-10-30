@@ -81,10 +81,11 @@ If there are few errors in your code, you can address the problems directly in t
 
 3. Click the suggested fix, or press `Alt+Shift+Enter` to resolve the problem.
 
-Alternatively, place the caret at the highlighted line and click the bulb icon ![bulb](https://resources.jetbrains.com/help/img/idea/2022.2/app.actions.intentionBulb.svg) that appears near the line counter.
+>Note:
+>If the suggested fix is not applicable, you can see other recommendations by clicking the **More actions...** button, or pressing `Alt+Enter`.	
+
+Alternatively, place the caret at the highlighted line, click the bulb icon ![bulb](https://resources.jetbrains.com/help/img/idea/2022.2/app.actions.intentionBulb.svg) that appears near the line counter, and select the suggested fix.
+
+<img src="https://github.com/EPprivate/private_repo/blob/main/images/bulb.png?raw=true" width="500">
 	
-
-
-If the suggested quick fix is not applicable, you can see other recommendations by clicking the **More actions...** button, or pressing `Alt+Enter`.
-
 ### Fixing errors in the Problems tool window
