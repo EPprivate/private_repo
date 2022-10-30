@@ -72,9 +72,18 @@ IntelliJ IDEA analyzes all detected problems, provides a description for each er
 If there are few errors in your code, you can address the problems directly in the editor. To fix a mistake, do the following:
   
 1. In the editor, or on the scrollbar, [locate](#inspecting-errors-in-the-editor) the problem that you want to resolve.
+	
 2. Hover the mouse over the highlighted error or a stripe on a scrollbar. A dialog with description of the mistake opens.
-3. 
+	
+	<img src="https://github.com/EPprivate/private_repo/blob/main/images/highlighting%20details.png?raw=true" width="600">
+	
+	<img src="https://github.com/EPprivate/private_repo/blob/main/images/highlighting%20details%202.png?raw=true" width="350">
+
+3. Click the suggested fix, or press `Alt+Shift+Enter` to resolve the problem.
+	
+If the suggested quick fix is not applicable, you can see other recommendations by clicking the **More actions...** button, or pressing `Alt+Enter`.
   
-Alternatively, (add descriptions of the "lightbulbs" that appear near the line counter when the caret is placed at the line, where the error exists).
+>Note:
+>Alternatively, (add descriptions of the "lightbulbs" that appear near the line counter when the caret is placed at the line, where the error exists).
   
 ### Fixing errors in the Problems tool window
