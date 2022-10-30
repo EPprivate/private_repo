@@ -81,7 +81,7 @@ If there are few errors in your code, you can address the problems directly in t
 
 3. Click the suggested fix, or press `Alt+Shift+Enter` to resolve the problem.
 
-Alternatively, place the caret at the highlighted line and click the bulb icon [bulb](https://resources.jetbrains.com/help/img/idea/2022.2/app.actions.intentionBulb.svg) that appears near the line counter.
+Alternatively, place the caret at the highlighted line and click the bulb icon ![bulb](https://resources.jetbrains.com/help/img/idea/2022.2/app.actions.intentionBulb.svg) that appears near the line counter.
 	
 
 
