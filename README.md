@@ -92,7 +92,7 @@ Alternatively, place the caret at the highlighted line, click the bulb icon ![bu
 	
 ### Fixing errors in the Problems tool window
 	
-The **Problems** tool window displays all errors that were found in the file you are currently working, as well as on the project level. To fix the errors, do the following:
+The **Problems** tool window displays all errors that were found in the file you are currently working in, as well as on the project level. To fix the errors, do the following:
 
 1. [Open](#inspecting-errors-in-the-problems-tool-window) the **Problems** tool window.
 
