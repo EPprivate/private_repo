@@ -59,7 +59,7 @@ Once the pane is opened, select the problem that you want to inspect.
 <img src="https://github.com/EPprivate/private_repo/blob/main/images/opened%20editor%20preview.png?raw=true" width="600">
   
 > **Note:**
-> The opened pane acts as an normal editor, so you can modify the code or apply available fixes right there. For additional information about the **Problems** tool window, see the [Problems tool window](https://www.jetbrains.com/help/idea/problems-tool-window.html) section.
+> The opened pane acts as an normal editor, so you can modify the code or apply available fixes right there.
   
 For information on how to fix mistakes, see the [Resolving errors](#resolving-errors) section.
 
@@ -109,3 +109,5 @@ If there are multiple similar problems, you can fix all of them at once. To do t
 	<img src="https://github.com/EPprivate/private_repo/blob/main/images/fixing%20multiple%20mistakes.png?raw=true" width="600">
 	
 As a result, all similar problems are fixed.
+	
+For additional information about the actions that can be performed in the **Problems** tool window, see the [Problems tool window](https://www.jetbrains.com/help/idea/problems-tool-window.html) section.
