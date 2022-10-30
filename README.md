@@ -1,6 +1,6 @@
 # Locating and resolving errors
 
-While working in a file, IntelliJ IDEA analyzes your code, highlighting the sections that require closer look. The system inspects both [programming](https://www.jetbrains.com/help/idea/code-inspection.html) and [natural](https://www.jetbrains.com/help/idea/proofreading.html) languages, checking syntax, spelling, and grammar. All found problems are marked in the editor and duplicated in a variety of other places, allowing you to quickly locate and resolve the issue.
+While working in a file, IntelliJ IDEA analyzes your code, highlighting the sections that require a closer look. The system inspects both [programming](https://www.jetbrains.com/help/idea/code-inspection.html) and [natural](https://www.jetbrains.com/help/idea/proofreading.html) languages, checking syntax, spelling, and grammar. All found problems are marked in the editor and duplicated in a variety of other places, allowing you to quickly locate and resolve the issue.
 
 ## Locating errors
 
@@ -23,7 +23,7 @@ Inspecting errors in the editor is convenient when there are few of them. Mistak
 > **Note:**
 > Typos and grammatical errors are not displayed on the scrollbar.
 
-To get information about the error, hover the mouse over the wavy line/stipe on the scrollbar. A popup with details appears, providing additional information about the mistake.
+To get information about the error, hover the mouse over the wavy line/stripe on the scrollbar. A popup with details appears, providing additional information about the mistake.
 
 <img src="https://github.com/EPprivate/private_repo/blob/main/images/highlighting%20details.png?raw=true" width="600">
 
@@ -31,7 +31,7 @@ For information on how to fix mistakes, see the [Resolving errors](#resolving-er
 
 ### Inspecting errors in the Problems tool window
 
-The **Problems** tool window displays a complete list of mistakes and provides a toolset for fixing errors in a more centralized way. Each listed problem has an explanation next to it and a number of the line where the error occured.
+The **Problems** tool window displays a complete list of mistakes and provides a toolset for fixing errors in a more centralized way. Each listed problem has an explanation next to it and a number of the line where the error occurred.
 
 To open the **Problems** window, do one of the following:
 
