@@ -43,7 +43,7 @@ As a result, the **Problems** tool window opens.
 
 <img src="https://github.com/EPprivate/private_repo/blob/main/images/problems%20tab.png?raw=true" width="600">
 
-<a name="severity_levels"></a>The markings in the **Problems** tool window correspond to inspection severity levels and depend on how serious the detected problem affects your project. The most common indicators are:
+<a name="severity_levels"></a>The markings in the **Problems** tool window correspond to [inspection](https://www.jetbrains.com/help/idea/code-inspection.html) severity levels and depend on how serious the detected problem affects your project. The most common indicators are:
 
 - **Error** ![error](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.balloonError.svg) - defines syntax errors.
 - **Warning** ![warning](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.warning.svg) - defines code fragments that might produce bugs or require enhancement.
