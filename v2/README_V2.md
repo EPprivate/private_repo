@@ -1,6 +1,8 @@
-# Locating and resolving errors
+# Locate, analyze, and resolve errors
 
-While working in a file, IntelliJ IDEA analyzes your code, highlighting the sections that require a closer look. The system inspects both [programming](https://www.jetbrains.com/help/idea/code-inspection.html) and [natural](https://www.jetbrains.com/help/idea/proofreading.html) languages, checking syntax, spelling, and grammar. All found problems are then marked in the editor and duplicated in the Problems tool window, making proofreading easier.
+IntelliJ IDEA analyzes your code, inspecting both [programming](https://www.jetbrains.com/help/idea/code-inspection.html) and [natural](https://www.jetbrains.com/help/idea/proofreading.html) languages. The system highlights found problems in the editor and duplicates them in the **Problems** tool window, making proofreading easier. 
+
+You can work with errors directly in the editor, however, if you need to fix multiple errors, it is better to use the **Problems** tool window. It displays a complete list of mistakes and provides a toolset for fixing errors in a more centralized way.
 
 ## Locate an error
 
