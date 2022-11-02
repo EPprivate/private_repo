@@ -6,6 +6,10 @@ While working in a file, IntelliJ IDEA analyzes your code, highlighting the sect
 
 
 
+## Analyze an error
+
+
+
 ## Resolve an error
 
 
