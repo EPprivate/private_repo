@@ -25,7 +25,7 @@ The icon near the mistake corresponds to one of the [inspection](https://www.jet
 - **Grammar Error** ![grammar error](https://resources.jetbrains.com/help/img/idea/2022.2/grazie.icons.grammarError.svg) - defines grammar mistakes.
 - **Typo** ![typo](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.inspectionsTypos.svg) - defines spelling mistakes and typos.
 
-Reviewing these markings can help you to define the cause behind the problem. Before proceeding to the next step, it is a good practice to inspect the errors to develop a strategy for a fix.
+Reviewing these markings can help you to define the cause behind the problem. It is a good practice to inspect the errors to develop a strategy for a fix before proceeding to the next step.
 
 ## Resolve an error
 
