@@ -18,14 +18,14 @@ Each listed problem has an explanation next to it and a number of the line where
 
 ## Examine an error
 
-The icon near the mistake correspond to [inspection](https://www.jetbrains.com/help/idea/code-inspection.html) severity levels and depend on how serious the detected problem affects your project. The most common indicators are:
+The icon near the mistake corresponds to one of the [inspection](https://www.jetbrains.com/help/idea/code-inspection.html) severity levels and depends on how serious the detected problem affects your project. The most common indicators are:
 
 - **Error** ![error](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.balloonError.svg) - defines syntax errors.
 - **Warning** ![warning](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.warning.svg) - defines code fragments that might produce bugs or require enhancement.
 - **Grammar Error** ![grammar error](https://resources.jetbrains.com/help/img/idea/2022.2/grazie.icons.grammarError.svg) - defines grammar mistakes.
 - **Typo** ![typo](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.inspectionsTypos.svg) - defines spelling mistakes and typos.
 
-These markings can help you to define the cause behind the problem. Before proceeding to the next step, it is a good practice to review the errors to develop a strategy for a fix.
+Reviewing these markings can help you to define the cause behind the problem. Before proceeding to the next step, it is a good practice to inspect the errors to develop a strategy for a fix.
 
 ## Resolve an error
 
