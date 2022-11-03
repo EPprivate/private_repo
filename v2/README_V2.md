@@ -4,7 +4,7 @@ IntelliJ IDEA analyzes your code, inspecting both [programming](https://www.jetb
 
 You can work with errors directly in the editor, locating and resolving problems there. However, if you need to fix multiple mistakes, it is better to use the **Problems** tool window, since it displays a complete list of mistakes and provides a toolset for fixing errors in a more centralized way. 
 
-For the sake of simplicity, all procedures described in the sections below are performed in the **Problems** tool window. For information on how to locate and fix mistakes in the editor, see corresponding sections.
+>For the sake of simplicity, all procedures described in the sections below are performed in the **Problems** tool window. For information on how to locate and fix mistakes in the editor, see corresponding sections.
 
 ## Locate an error
 
