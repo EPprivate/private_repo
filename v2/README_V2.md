@@ -8,7 +8,11 @@ You can work with errors directly in the editor, locating and resolving problems
 
 ## Locate an error
 
+Before fixing an error, you need to locate it first. To see the list of detected problems, press `Alt+6` to open the **Problems** tool window. 
 
+
+
+Each listed problem has an explanation next to it and a number of the line where the error occurred.
 
 ## Examine an error
 
