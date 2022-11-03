@@ -25,7 +25,7 @@ The icon near the mistake correspond to [inspection](https://www.jetbrains.com/h
 - **Grammar Error** ![grammar error](https://resources.jetbrains.com/help/img/idea/2022.2/grazie.icons.grammarError.svg) - defines grammar mistakes.
 - **Typo** ![typo](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.inspectionsTypos.svg) - defines spelling mistakes and typos.
 
-Additional information about inspection severity levels can be found in the [Change inspection severity](https://www.jetbrains.com/help/idea/configuring-inspection-severities.html) section.
+These indicators can help you to define the cause behind the problem and develop a strategy to fix the error.
 
 ## Resolve an error
 
