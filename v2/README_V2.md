@@ -2,9 +2,9 @@
 
 IntelliJ IDEA analyzes your code, inspecting both [programming](https://www.jetbrains.com/help/idea/code-inspection.html) and [natural](https://www.jetbrains.com/help/idea/proofreading.html) languages. The system highlights detected problems in the [editor](https://www.jetbrains.com/help/idea/guided-tour-around-the-user-interface.html?keymap=primary_windows) and duplicates them in the **Problems** tool window, making proofreading easier.
 
-You can work with errors directly in the editor, locating and resolving problems there. However, if you need to fix multiple mistakes, it is better to use the **Problems** tool window, since it displays a complete list of mistakes and provides a toolset for fixing errors in a more centralized way. 
+You can work with errors directly in the editor, locating and resolving problems there. However, if you need to address multiple issues, it is better to use the **Problems** tool window, since it displays a complete list of mistakes and provides a toolset for fixing them in a more centralized way. 
 
->For the sake of simplicity, all procedures described in the sections below are performed in the **Problems** tool window. For information on how to locate and fix mistakes in the editor, see corresponding sections.
+For the sake of simplicity, all procedures described in the following sections are performed in the **Problems** tool window. For information on how to locate and fix mistakes in the editor, see corresponding sections.
 
 ## Locate an error
 
@@ -25,7 +25,7 @@ The icon near the mistake correspond to [inspection](https://www.jetbrains.com/h
 - **Grammar Error** ![grammar error](https://resources.jetbrains.com/help/img/idea/2022.2/grazie.icons.grammarError.svg) - defines grammar mistakes.
 - **Typo** ![typo](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.inspectionsTypos.svg) - defines spelling mistakes and typos.
 
-These indicators can help you to define the cause behind the problem and develop a strategy to fix the error.
+These markings can help you to define the cause behind the problem. Before proceeding to the next step, it is a good practice to review the errors to develop a strategy for a fix.
 
 ## Resolve an error
 
