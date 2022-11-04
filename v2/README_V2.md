@@ -1,14 +1,18 @@
 # Tutorial: Locate, analyze, and resolve errors
 
-IntelliJ IDEA analyzes your code, inspecting both [programming](https://www.jetbrains.com/help/idea/code-inspection.html) and [natural](https://www.jetbrains.com/help/idea/proofreading.html) languages. The system highlights detected problems in the [editor](https://www.jetbrains.com/help/idea/guided-tour-around-the-user-interface.html?keymap=primary_windows) and duplicates them in the **Problems** tool window, making proofreading easier.
+Writing code is an intricate and thought-consuming process, and making errors is a part of it. It is almost inevitable that at some point a mistake will be made. Lucky for us, IntelliJ IDEA analyzes our code, inspecting both [programming](https://www.jetbrains.com/help/idea/code-inspection.html) and [natural](https://www.jetbrains.com/help/idea/proofreading.html) languages. The system highlights detected problems, making proofreading easier.
 
-You can work with errors directly in the editor, locating and resolving problems there. However, if you need to address multiple issues, it is better to use the **Problems** tool window, since it displays a complete list of mistakes and provides a toolset for fixing them in a more centralized way. 
+The whole process of fixing errors can be divided into the following steps:
 
-For the sake of simplicity, all procedures described in the following sections are performed in the **Problems** tool window. For information on how to locate and fix mistakes in the editor, see corresponding sections.
+1. [Locate the mistake](#locate-an-error).
+2. [Analyze the detected issue](#examine-an-error).
+3. [Resolve the problem](#resolve-an-error).
+
+In this tutorial, we will go through each step
 
 ## Locate an error
 
-Before fixing an error, you need to locate it first. To see the list of detected problems:
+You can deal with errors directly in the editor, locating and resolving problems there. However, if you need to address multiple issues, it is better to use the **Problems** tool window, since it displays a complete list of mistakes and provides a toolset for fixing them in a more centralized way. 
 
 1. Press `Alt+6`. This key combination opens the **Problems** tool window.
 
