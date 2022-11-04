@@ -61,4 +61,4 @@ The description of the error tells us that the '**;**' sign is missing at the fo
 
 ## Resolve an error
 
-Once we have located and reviewed the 
+Once we have located and reviewed the error, it is time to fix it.
