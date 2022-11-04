@@ -1,4 +1,4 @@
-# Locate, analyze, and resolve errors
+# Tutorial: Locate, analyze, and resolve errors
 
 IntelliJ IDEA analyzes your code, inspecting both [programming](https://www.jetbrains.com/help/idea/code-inspection.html) and [natural](https://www.jetbrains.com/help/idea/proofreading.html) languages. The system highlights detected problems in the [editor](https://www.jetbrains.com/help/idea/guided-tour-around-the-user-interface.html?keymap=primary_windows) and duplicates them in the **Problems** tool window, making proofreading easier.
 
