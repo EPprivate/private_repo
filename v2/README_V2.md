@@ -1,6 +1,6 @@
 # Tutorial: Locate, analyze, and resolve errors
 
-Writing code is a complex and thought-consuming process, and errors are a part of it. It is almost inevitable that at some point a mistake will be made. Lucky for us, IntelliJ IDEA analyzes our code, inspecting both [programming](https://www.jetbrains.com/help/idea/code-inspection.html) and [natural](https://www.jetbrains.com/help/idea/proofreading.html) languages. The system then highlights detected problems, making proofreading easier.
+Writing code is a complex and thought-consuming process, and errors are a part of it. It is almost inevitable that at some point a mistake will be made. Lucky for us, IntelliJ IDEA analyzes our code, inspecting both [programming](https://www.jetbrains.com/help/idea/code-inspection.html) and [natural](https://www.jetbrains.com/help/idea/proofreading.html) languages. The system highlights detected problems, making proofreading easier. This initial review can help us to eliminate the most obvious issues right away, and keep our code tidy.
 
 In this tutorial, you will learn how to locate, analyze, and resolve mistakes in your code.
 
@@ -40,7 +40,7 @@ The program is supposed to sort the element words in lexicographical order. Howe
 
 <img src="https://github.com/EPprivate/private_repo/blob/main/images/errors%20in%20the%20editor.png?raw=true" width="800">
 
-Some mistakes are not critical, but others will prevent you from running your program. We now need to 
+Some mistakes are not critical, but others will prevent us from running the program. Our goal is to locate and resolve all detected problems. 
 
 ## Locate an error
 
