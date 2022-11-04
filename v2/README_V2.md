@@ -1,6 +1,6 @@
 # Tutorial: Locate, analyze, and resolve errors
 
-Writing code is an intricate and thought-consuming process, and making errors is a part of it. It is almost inevitable that at some point a mistake will be made. Lucky for us, IntelliJ IDEA analyzes our code, inspecting both [programming](https://www.jetbrains.com/help/idea/code-inspection.html) and [natural](https://www.jetbrains.com/help/idea/proofreading.html) languages. The system highlights detected problems, making proofreading easier.
+Writing code is an intricate and thought-consuming process, and errors are a part of it. It is almost inevitable that at some point a mistake will be made. Lucky for us, IntelliJ IDEA analyzes our code, inspecting both [programming](https://www.jetbrains.com/help/idea/code-inspection.html) and [natural](https://www.jetbrains.com/help/idea/proofreading.html) languages. The system highlights detected problems, making proofreading easier.
 
 The whole process of fixing errors can be divided into the following steps:
 
