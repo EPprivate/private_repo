@@ -4,7 +4,7 @@ Writing code is a complex and thought-consuming process, and errors are a part o
 
 In this tutorial, you will learn how to locate, analyze, and resolve mistakes in your code.
 
-## Code example
+## The problem
 
 Imagine we have wrote the following code:
 
@@ -44,25 +44,21 @@ Some mistakes are not critical, but others will prevent us from running the prog
 
 ## Locate an error
 
-The first step to fix an error, is to locate it. You can find errors directly in the editor, since all detected problems are highlighed there. However, if you need to address multiple issues, we advise you to use the **Problems** tool window. It displays a complete list of mistakes, describes the cause behind the error, and provides a toolset to fix problems in a more centralized way.
+The first step to fix an error, is to locate it. You can find errors directly in the editor, since all detected problems are highlighed there. However, if you need to address multiple issues, it is more convenient to use the **Problems** tool window. It displays a complete list of mistakes, describes the cause behind the error, and provides a toolset to fix problems in a more centralized way.
 
-Let's locate an error:
+Let's open the **Problems** tool window and navigate to the first problem in the list:
 
 1. Press `Alt+6`. This key combination opens the **Problems** tool window.
-
-2. Use the arrow keys or the mouse pointer to navigate to the desired problem.
+2. Use the arrow keys or the mouse pointer to navigate to the first problem in the list.
 
 ## Examine an error
 
-The icon near the mistake corresponds to one of the [inspection](https://www.jetbrains.com/help/idea/code-inspection.html) severity levels and depends on how serious the detected problem affects your project. The most common indicators are:
+After locating the problem, it is a good practice to inspect it to understand what you are dealing with. Lets take a look at the selected problem:
 
-- **Error** ![error](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.balloonError.svg) - defines syntax errors.
-- **Warning** ![warning](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.warning.svg) - defines code fragments that might produce bugs or require enhancement.
-- **Grammar Error** ![grammar error](https://resources.jetbrains.com/help/img/idea/2022.2/grazie.icons.grammarError.svg) - defines grammar mistakes.
-- **Typo** ![typo](https://resources.jetbrains.com/help/img/idea/2022.2/app.general.inspectionsTypos.svg) - defines spelling mistakes and typos.
 
-Reviewing these markings can help you to define the cause behind the problem. It is a good practice to inspect the errors to develop a strategy for a fix before proceeding to the next step.
+
+The description of the error tells us that the '**;**' sign is missing at the fourth line of the file. We can also gather additional information about the mistake by taking a look at the marking next to it. This icon corresponds to one of the [inspection](https://www.jetbrains.com/help/idea/code-inspection.html) severity levels and depends on how serious the detected problem affects the project. In our case, we have a syntax error.
 
 ## Resolve an error
 
-
+Once we have located and reviewed the 
