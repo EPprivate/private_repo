@@ -58,9 +58,11 @@ Let's open the **Problems** tool window and navigate to the first problem in the
 
 After locating the problem, it is a good practice to inspect it to understand what you are dealing with. Lets take a look at the selected problem:
 
+<img src="https://github.com/EPprivate/private_repo/blob/main/images/inspecting%20errors.png?raw=true" width="850">
 
+The description of the error tells us that the '**;**' sign is missing at the fourth line of the file. We can also gather additional information about the mistake by taking a look at the marking next to it. This icon corresponds to one of the [inspection severity levels](https://www.jetbrains.com/help/idea/code-inspection.html) and depends on how serious the detected problem affects the project. In our case, we have a syntax error.
 
-The description of the error tells us that the '**;**' sign is missing at the fourth line of the file. We can also gather additional information about the mistake by taking a look at the marking next to it. This icon corresponds to one of the [inspection](https://www.jetbrains.com/help/idea/code-inspection.html) severity levels and depends on how serious the detected problem affects the project. In our case, we have a syntax error.
+Now when we located and analyzed the problem, we can proceed to the next step.
 
 ## Resolve an error
 
