@@ -67,3 +67,4 @@ Now when we located and analyzed the problem, we can proceed to the next step.
 ## Resolve an error
 
 Once we have located and reviewed the error, it is time to fix it.
+
