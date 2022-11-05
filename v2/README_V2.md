@@ -49,6 +49,9 @@ The first step to fix an error, is to locate it. You can find errors directly in
 Let's open the **Problems** tool window and navigate to the first problem in the list:
 
 1. Press `Alt+6`. This key combination opens the **Problems** tool window.
+
+    <img src="https://github.com/EPprivate/private_repo/blob/main/images/problems%20tool%20window.png?raw=true" width="800">
+
 2. Use the arrow keys or the mouse pointer to navigate to the first problem in the list.
 
 ## Examine an error
