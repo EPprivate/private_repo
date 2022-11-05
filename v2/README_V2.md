@@ -66,5 +66,5 @@ Now when we located and analyzed the problem, we can proceed to the next step.
 
 ## Resolve an error
 
-Once we have located and reviewed the error, it is time to fix it.
+Once we have located and reviewed the mistake, it is time to fix it. IntelliJ IDEA not only analyzes your code for errors, it also suggests how to fix it.
 
