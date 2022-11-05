@@ -60,7 +60,7 @@ After locating the problem, it is a good practice to inspect it to understand wh
 
 <img src="https://github.com/EPprivate/private_repo/blob/main/images/inspecting%20errors.png?raw=true" width="850">
 
-The description of the error tells us that the '**;**' sign is missing at the fourth line of the file. We can also gather additional information about the mistake by taking a look at the marking next to it. This icon corresponds to one of the [inspection severity levels](https://www.jetbrains.com/help/idea/code-inspection.html) and depends on how serious the detected problem affects the project. In our case, we have a syntax error.
+We can gather information about the mistake by reviewing the description provided by the system, and the marking next to it. The icon corresponds to one of the [inspection severity levels](https://www.jetbrains.com/help/idea/code-inspection.html) and depends on how serious the detected problem affects the project. In our case, we have a syntax error: the '**;**' sign is missing at the fourth line of the file.
 
 Now when we located and analyzed the problem, we can proceed to the next step.
 
