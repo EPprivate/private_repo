@@ -66,5 +66,12 @@ Now when we located and analyzed the problem, we can proceed to the next step.
 
 ## Resolve an error
 
-Once we have located and reviewed the mistake, it is time to fix it. IntelliJ IDEA not only analyzes your code for errors, it also suggests how to fix it.
+Once we have located and reviewed the mistake, it is time to fix it. IntelliJ IDEA not only analyzes your code for errors, it also suggests how to fix them. Let's resolve our problem using the suggested fix:
+
+1. While in the **Problems** tool window, press `Alt+Enter`.
+2. Press `Enter` to select the suggested fix.
+
+As a result, our problem is resolved.
+
+You might have noticed that we have an identical syntax error on the thirteenth line. IntelliJ IDEA allows us to process similar mistakes at once, so we can apply the suggested fix to both cases. To do this:
 
