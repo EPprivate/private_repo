@@ -80,7 +80,7 @@ Once we have located and reviewed the mistake, it is time to fix it. IntelliJ ID
 
 3. Press `Enter` to apply the suggested fix to both problems.
 
-As a result, we have just resolved two similar errors at once. However, we still have two more problems. Now, that you are familiar with the general flow, let's fix the rest of the errors. To recap, you need to:
+As a result, we have resolved two similar errors at once. However, we still have two more problems. Now, that you are familiar with the general flow, let's fix the rest of the errors. To recap, you need to:
 
 1. [Locate and navigate](#locate-an-error) to the mistake that you want to resolve.
     
