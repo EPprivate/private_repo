@@ -80,4 +80,4 @@ Once we have located and reviewed the mistake, it is time to fix it. IntelliJ ID
 
 3. Press `Enter` to apply the suggested fix to both problems.
 
-As a result, we have just resolved two similar errors at once. 
+As a result, we have just resolved two similar errors at once. To fix the rest, repeat the procedures we have gone through before.
