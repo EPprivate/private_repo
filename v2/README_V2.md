@@ -62,6 +62,8 @@ After locating the problem, it is a good practice to inspect it to understand wh
 
 We can gather information about the mistake by reviewing the description provided by the system, and the marking next to it. The icon corresponds to one of the [inspection severity levels](https://www.jetbrains.com/help/idea/code-inspection.html) and depends on how serious the detected problem affects the project. In our case, we have a syntax error: the '**;**' sign is missing at the fourth line of the file.
 
+You might also have noticed that we have an identical syntax error on the thirteenth line. IntelliJ IDEA allows us to process similar mistakes at once, so we will deal with both errors at one during the next step.
+
 Now when we located and analyzed the problem, we can proceed to the next step.
 
 ## Resolve an error
