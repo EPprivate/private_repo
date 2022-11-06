@@ -80,11 +80,21 @@ Once we have located and reviewed the mistake, it is time to fix it. IntelliJ ID
 
 3. Press `Enter` to apply the suggested fix to both problems.
 
-As a result, we have just resolved two similar errors at once.
+As a result, we have just resolved two similar errors at once. However, we still have two more problems. Now, that you are familiar with the general flow, let's fix the rest of the errors. To recap, you need to:
 
-The rest of the problems can be fixed in a similar way.
+1. [Locate and navigate](#locate-an-error) to the mistake that you want to resolve.
+    
+    <img src="https://github.com/EPprivate/private_repo/blob/main/images/fixing%20other%20errors.png?raw=true" width="850">
+    
+2. [Examine](#examine-an-error) the error to gather information about it.
 
-To fix the rest, repeat the procedures we have gone through before.
+3. [Resolve](#resolve-an-error) the problem ussing the suggested quick fix.
+
+    <img src="https://github.com/EPprivate/private_repo/blob/main/images/quick%20fix%20options.png?raw=true" width="850">
+
+Once you fix the rest of the issues, the green checkmark will be displayed in the top-right corner of the editor, meaning that there are no more problems in your code.
+
+<img src="https://github.com/EPprivate/private_repo/blob/main/images/no%20problems%20found.png?raw=true" width="350">
 
 ## Summary
 
