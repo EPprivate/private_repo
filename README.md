@@ -98,4 +98,4 @@ Once you fix the rest of the issues, the green checkmark will be displayed in th
 
 ## Things to consider
 
-Even if the system tells you that there are no more problems in your code, this does not guarantee that your program will provide the expected result once executed. There might be no syntax errors, however, there may be problems with logic which will affect the end result. To see what can be done in a situation like this, take a look at the [Debugging](https://www.jetbrains.com/help/idea/debugging-your-first-java-application.html) section.
+Even if the system tells you that there are no more problems in your code, this does not guarantee that your program will provide the expected result once executed. There might be no syntax errors, however, there may be problems with logic which will affect the end result. To learn what can be done in a situation like this, see the [Debugging](https://www.jetbrains.com/help/idea/debugging-your-first-java-application.html) section.
