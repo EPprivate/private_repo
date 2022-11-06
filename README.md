@@ -88,7 +88,7 @@ As a result, we have resolved two similar errors at once. However, we still have
     
 2. [Examine](#examine-an-error) the error to gather information about it.
 
-3. [Resolve](#resolve-an-error) the problem ussing the suggested quick fix.
+3. [Resolve](#resolve-an-error) the problem using the suggested quick fix.
 
     <img src="https://github.com/EPprivate/private_repo/blob/main/images/quick%20fix%20options.png?raw=true" width="850">
 
