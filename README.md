@@ -80,4 +80,12 @@ Once we have located and reviewed the mistake, it is time to fix it. IntelliJ ID
 
 3. Press `Enter` to apply the suggested fix to both problems.
 
-As a result, we have just resolved two similar errors at once. To fix the rest, repeat the procedures we have gone through before.
+As a result, we have just resolved two similar errors at once.
+
+The rest of the problems can be fixed in a similar way.
+
+To fix the rest, repeat the procedures we have gone through before.
+
+## Summary
+
+написать про то, что несмотря на отсутствие ошибок в файле, это еще не значит, что программа теперь на 100% работает верно. Могут быть ошибки в логике, которые можно решить с помощью инспекций и дебаггера.
