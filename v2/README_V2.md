@@ -44,7 +44,7 @@ Some mistakes are not critical, but others will prevent us from running the prog
 
 ## Locate an error
 
-The first step to fix an error, is to locate it. You can find errors directly in the editor, since all detected problems are highlighed there. However, if you need to address multiple issues, it is more convenient to use the **Problems** tool window. It displays a complete list of mistakes, describes the cause behind the error, and provides a toolset to fix problems in a more centralized way.
+The first step to fix an error, is to locate it. You can find errors directly in the editor, since all detected problems are highlighted there. However, if you need to address multiple issues, it is more convenient to use the **Problems** tool window. It displays a complete list of mistakes, describes the cause behind the error, and provides a toolset to fix problems in a more centralized way.
 
 Let's open the **Problems** tool window and navigate to the first problem in the list:
 
@@ -56,7 +56,7 @@ Let's open the **Problems** tool window and navigate to the first problem in the
 
 ## Examine an error
 
-After locating the problem, it is a good practice to inspect it to understand what you are dealing with. Lets take a look at the selected problem:
+After locating the problem, it is a good practice to inspect it to understand what you are dealing with. Let's take a look at the selected problem:
 
 <img src="https://github.com/EPprivate/private_repo/blob/main/images/inspecting%20errors.png?raw=true" width="850">
 
