@@ -6,7 +6,7 @@ In this tutorial, you will learn how to locate, analyze, and resolve mistakes in
 
 ## The problem
 
-Imagine we have wrote the following code:
+Imagine we have the following application:
 
 ``` java
 class Main {
