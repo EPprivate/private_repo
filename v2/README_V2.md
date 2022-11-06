@@ -62,18 +62,21 @@ After locating the problem, it is a good practice to inspect it to understand wh
 
 We can gather information about the mistake by reviewing the description provided by the system, and the marking next to it. The icon corresponds to one of the [inspection severity levels](https://www.jetbrains.com/help/idea/code-inspection.html) and depends on how serious the detected problem affects the project. In our case, we have a syntax error: the '**;**' sign is missing at the fourth line of the file.
 
-You might also have noticed that we have an identical syntax error on the thirteenth line. IntelliJ IDEA allows us to process similar mistakes at once, so we will deal with both errors at one during the next step.
-
-Now when we located and analyzed the problem, we can proceed to the next step.
+You might have noticed that we have an identical syntax error on the thirteenth line. Since IntelliJ IDEA supports processing similar mistakes at once, we will deal with both errors during the next step.
 
 ## Resolve an error
 
 Once we have located and reviewed the mistake, it is time to fix it. IntelliJ IDEA not only analyzes your code for errors, it also suggests how to fix them. Let's resolve our problem using the suggested fix:
 
-1. While in the **Problems** tool window, press `Alt+Enter`.
-2. Press `Enter` to select the suggested fix.
+1. While in the **Problems** tool window, press `Alt+Enter`. A menu with quick fix options opens.
+
+    <img src="https://github.com/EPprivate/private_repo/blob/main/images/suggested%20fix.png?raw=true" width="850">
+
+    We can apply the suggested fix right away, but let's also address a similar syntax error located at the thirteenth line.
+2. Press the right arrow key.
+
+    
+
+3. Press `Enter` to apply the suggested fix to both errors.
 
 As a result, our problem is resolved.
-
-You might have noticed that we have an identical syntax error on the thirteenth line. IntelliJ IDEA allows us to process similar mistakes at once, so we can apply the suggested fix to both cases. To do this:
-
