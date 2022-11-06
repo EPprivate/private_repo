@@ -75,8 +75,8 @@ Once we have located and reviewed the mistake, it is time to fix it. IntelliJ ID
     We can apply the suggested fix right away, but let's also address a similar syntax error located at the thirteenth line.
 2. Press the right arrow key.
 
-    
+    <img src="https://github.com/EPprivate/private_repo/blob/main/images/fix%20all.png?raw=true" width="350">
 
 3. Press `Enter` to apply the suggested fix to both errors.
 
-As a result, our problem is resolved.
+As a result, we've just resolved two similar errors at once.
