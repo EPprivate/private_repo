@@ -2,7 +2,7 @@
 
 Looking through the JetBrains IntelliJ IDEA documentation library, I've come across [this](https://www.jetbrains.com/help/idea/pro-tips.html#multiple-selections) short article about the **Multiple Selections** feature.
 
-At first sight, the descriptions are looking clear and straight-forward. However, when you start reproducing them in IntelliJ IDEA, some procedures described in the instruction may start to seem confusing.
+At first sight, the descriptions are looking clear and straight-forward. However, when you start reproducing them in IntelliJ IDEA, some procedures described in the instruction may start to seem confusing. In the following sections, I will try to provide a reasoning for each part that I found troublesome.
 
 ## Issue 1: Possible Misinterpretation of the Instruction
 
