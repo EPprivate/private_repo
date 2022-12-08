@@ -11,7 +11,7 @@ The first issue I would like to discuss, is the description of the `Alt+Shift+J`
 | You can press `Alt+J` again to go forward, or `Alt+Shift+J` to go back... |
 |---|
 
-The wording in this sentence may lead someone to a conclusion, that it is possible to select similar fragments both downwards and upwards to the selection starting point, which is not the case. Pressing the `Alt+Shift+J` key combination cancels the previous selection; it does not allow you to select the matching fragment above the first selected element.
+The wording in this sentence may lead someone to a conclusion, that it is possible to select similar fragments both downwards and upwards to the selection starting point, which is not the case. Pressing the `Alt+Shift+J` key combination does not allow you to select the matching fragment above the first selected element, it just  cancels the previous selection.
 
 ## Issue 2: Inability to Reproduce the Instruction
 
