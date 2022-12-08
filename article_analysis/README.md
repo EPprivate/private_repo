@@ -20,7 +20,9 @@ The second issue I wanted to point out, is the _hot tip_ about the cart cloning.
 | _Hot tip_: One more way to clone caret is to press `Ctrl` twice, and then move the caret up or down with arrows or with the mouse. |
 |---|
 
-I'm not sure if the problem lies in the IntelliJ IDEA version that I use, or my keyboard shortcuts are off, but in my case, pressing the `Ctrl` button twice opens the **Run Anything** dialog, instead of cloning the caret.
+I'm not sure if the problem lies in the IntelliJ IDEA version that I use, or my keyboard shortcuts are off, but in my case, pressing the `Ctrl` button twice opens the **Run Anything** dialog, instead of cloning the caret:
+
+![issue_2](https://github.com/EPprivate/private_repo/blob/main/images/issue_2.gif?raw=true)
 
 ## Issue 3: Missing Feature Description
 
