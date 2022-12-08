@@ -18,4 +18,4 @@ The second issue I wanted to point out, is the _hot tip_ about the cart cloning.
 
 I'm not sure if the problem lies in the IntelliJ IDEA version that I use, or my keyboard shortcuts are off, but in my case, pressing the `Ctrl` button twice opens the **Run Anything** dialog, instead of cloning the caret.
 
-The last issue I would like to discuss, is the The case with holding the `Alt+J` key combination, which allows you to select all matching fragments is not described at all. I think, thi should have been noticed, because otherwise, the user has to press `Alt+J` multiple times, which is not very convenient.
+The last issue I would like to discuss, is the abscense of another `Alt+J` key combination use case. If you want to select all matching fragments in the file, you can simply hold the `Alt+J` key combination, instead of pressing it multiple times, as it is suggested in the instruction.
