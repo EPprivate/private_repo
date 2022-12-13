@@ -17,16 +17,18 @@ The description of the `Alt+Shift+J` key combination in the following line is in
 
 The wording in this sentence may lead someone to a conclusion, that it is possible to select similar fragments both downwards and upwards to the selection starting point, which is not the case. Pressing the `Alt+Shift+J` key combination does not allow you to select the matching fragment above the first selected element, it just  cancels the previous selection.
 
-## Issue 3: Inability to Reproduce the Instruction
+## Issue 3: Inaccurate Description of the Clone Caret Feature
 
-The second issue I wanted to point out, is the _hot tip_ about the cart cloning. The description contains the following line:
+The _hot tip_ about the caret cloning may be hard to reproduce because of the inaccurate description. The instruction contains the following line:
 
 | _Hot tip_: One more way to clone caret is to press `Ctrl` twice, and then move the caret up or down with arrows or with the mouse. |
 |---|
 
-I'm not sure if the problem lies in the IntelliJ IDEA version that I use, or my keyboard shortcuts are off, but in my case, pressing the `Ctrl` button twice opens the **Run Anything** dialog, instead of cloning the caret:
+However, if you press the `Ctrl` button twice, and then try to move the caret, you won't be able to do so because the **Run Anything** dialog is opened:
 
 ![issue_2](https://github.com/EPprivate/private_repo/blob/main/images/issue_2.gif?raw=true)
+
+
 
 ## Issue 4: Missing Feature Description
 
