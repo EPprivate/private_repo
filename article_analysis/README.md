@@ -1,12 +1,12 @@
 # Article Analysis: Multiple Selections
 
-Looking through the JetBrains IntelliJ IDEA documentation library, I've come across [this](https://www.jetbrains.com/help/idea/pro-tips.html#multiple-selections) short article about the **Multiple Selections** feature.
+Looking through the JetBrains IntelliJ IDEA documentation library, I've come across [this](https://www.jetbrains.com/help/idea/pro-tips.html#multiple-selections) a short article about the **Multiple Selections** feature.
 
-At first sight, the descriptions are looking clear and straight-forward. However, when you start reproducing them in IntelliJ IDEA, some procedures described in the instruction may start to seem confusing. In the following sections, I will try to provide a reasoning for each part that I found troublesome.
+At first sight, the descriptions are looking clear and straightforward. However, when you start reproducing them in IntelliJ IDEA, some procedures described in the instruction may start to seem confusing. In the following sections, I will try to provide a reasoning for each part that I found troublesome.
 
 ## Issue 1: Possible Misinterpretation of the Instruction
 
-The first issue I would like to discuss, is the description of the `Alt+Shift+J` key combination, specifically the the following line:
+The first issue I would like to discuss, is the description of the `Alt+Shift+J` key combination, specifically the following line:
 
 | You can press `Alt+J` again to go forward, or `Alt+Shift+J` to go back... |
 |---|
@@ -26,4 +26,4 @@ I'm not sure if the problem lies in the IntelliJ IDEA version that I use, or my 
 
 ## Issue 3: Missing Feature Description
 
-The last issue I would like to discuss, is the abscense of another `Alt+J` key combination use case. If you want to select all matching fragments in the file, you can simply hold the `Alt+J` key combination, instead of pressing it multiple times, as it is suggested in the instruction.
+The last issue I would like to discuss, is the absense of another `Alt+J` key combination use case. If you want to select all matching fragments in the file, you can simply hold the `Alt+J` key combination, instead of pressing it multiple times, as it is suggested in the instruction.
