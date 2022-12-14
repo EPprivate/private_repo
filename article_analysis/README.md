@@ -42,7 +42,7 @@ There is one more usage of the `Alt+J` key combination that is not described in 
 
 ## Additional Comment: "A Relatively New Feature"
 
-There is a following line in the article:
+Not an issue, rather a comment. There is a following line in the article:
 
 | Multiple selection is a relatively new, very powerful editor feature... |
 |---|
