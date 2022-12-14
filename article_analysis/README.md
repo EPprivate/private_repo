@@ -42,9 +42,12 @@ There is one more usage of the `Alt+J` key combination that is not described in 
 
 ## Additional Comment: "A Relatively New Feature"
 
-The f
+There is a following line in the article:
 
 | Multiple selection is a relatively new, very powerful editor feature... |
 |---|
 
+However, it seems that this feature has been around for a while. Its description exists at the very least in the `2020.1` version of the documentation.
+
+![new_feature](https://github.com/EPprivate/private_repo/blob/main/images/new_feature.png?raw=true)
 
