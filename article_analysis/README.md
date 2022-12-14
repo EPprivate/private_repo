@@ -36,4 +36,6 @@ Moreover, I'm not sure if this tip is relevant at all. In my opinion, this is a 
 
 ## Issue 4: Missing Feature Description
 
-The last issue I would like to discuss, is the absense of another `Alt+J` key combination use case. If you want to select all matching fragments in the file, you can simply hold the `Alt+J` key combination, instead of pressing it multiple times, as it is suggested in the instruction.
+There is one more usage of the `Alt+J` key combination that is not described in the article. If you want to select all matching fragments in the file, you can simply hold the `Alt+J` key combination, instead of pressing it multiple times, as it is suggested in the instruction.
+
+
