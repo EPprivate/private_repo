@@ -32,7 +32,7 @@ However, if you press the `Ctrl` button twice, and then try to move the caret, y
 
 If you want to clone the caret, you have to **hold** the `Ctrl` button after you pressed it for the second time, and then move the caret up or down with arrows (I was not able to move it with the mouse for some reason).
 
-Moreover, I'm not sure if this tip is relevant at all. In my opinion, this is a rather situational feature that can be used in a limited number of cases. The caret is cloned at a specific position, which means that this feature can only be used for the fragments that are located at the same indentation level. All this makes the tip irrelevant because the method described in the article (selection via `Alt+J`) is much more convenient.
+Moreover, I'm not sure if this tip is relevant at all. In my opinion, this is a rather situational feature that can be used in a limited number of cases. The caret is cloned at a specific position, which means that this feature can be used for the fragments that are located at the same indentation level. All this makes the tip irrelevant because the method described in the article (selection via `Alt+J`) is much more convenient.
 
 ## Issue 4: Missing Feature Description
 
