@@ -51,4 +51,4 @@ However, it seems that this feature has been around for a while. Its description
 
 ![new_feature](https://github.com/EPprivate/private_repo/blob/main/images/new_feature.png?raw=true)
 
- 
+Probably, it is better to avoid such phrases in documentation, especially when you need to maintain so much of it, because descriptions like this get forgotten very fast, and are rarely changed as a result.
