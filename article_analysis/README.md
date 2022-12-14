@@ -6,6 +6,8 @@ At first sight, the descriptions are looking clear and straightforward. However,
 
 ## Issue 1: Unclear Use Case
 
+There is no use case provided for this feature. The user is left unaware of the situation where he or she can apply the acquired knowledge. Can you use this feature as  a more controllable alternative to [rename refactorings](https://www.jetbrains.com/help/idea/rename-refactorings.html) functionality? Controllable in a way that you can select and edit a specific amount of fragments, as opposed to editing all corresponding occurances?
+
 
 
 ## Issue 2: Vague Description of the Alt+Shift+J Key Combination
