@@ -38,4 +38,4 @@ Moreover, I'm not sure if this tip is relevant at all. In my opinion, this is a 
 
 There is one more usage of the `Alt+J` key combination that is not described in the article. If you want to select all matching fragments in the file, you can simply hold the `Alt+J` key combination, instead of pressing it multiple times, as it is suggested in the instruction.
 
-
+![issue_4](https://github.com/EPprivate/private_repo/blob/main/images/issue_4.gif?raw=true)
