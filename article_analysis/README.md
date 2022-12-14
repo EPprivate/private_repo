@@ -17,7 +17,7 @@ The description of the `Alt+Shift+J` key combination in the following line is in
 
 The wording in this sentence may lead someone to a conclusion, that it is possible to select similar fragments both downwards and upwards to the selection starting point, which is not the case. Pressing the `Alt+Shift+J` key combination does not allow you to select the matching fragment above the first selected element, it just  cancels the previous selection.
 
-
+![issue_2](https://github.com/EPprivate/private_repo/blob/main/images/issue_2.gif?raw=true)
 
 ## Issue 3: Inaccurate Description of the Clone Caret Feature
 
@@ -28,7 +28,7 @@ The _hot tip_ about the caret cloning may be hard to reproduce because of the in
 
 However, if you press the `Ctrl` button twice, and then try to move the caret, you won't be able to do so because the **Run Anything** dialog is opened:
 
-
+![issue_3](https://github.com/EPprivate/private_repo/blob/main/images/issue_3.gif?raw=true)
 
 If you want to clone the caret, you have to **hold** the `Ctrl` button after you pressed it for the second time, and then move the caret up or down with arrows (I was not able to move it with the mouse for some reason).
 
