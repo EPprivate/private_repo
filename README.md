@@ -44,8 +44,8 @@ Not an issue, rather a comment. There is a following line in the article:
 
 > Multiple selection is a relatively new, very powerful editor feature...
 
-However, it seems that this feature has been around for a while. Its description exists at the very least in the `2020.1` version of the documentation.
+However, it seems that this feature has been around for a while. Its description exists at the very least since the `2020.1` version of the documentation.
 
 ![new_feature](https://github.com/EPprivate/private_repo/blob/main/images/new_feature.png?raw=true)
 
-Probably, it is better to avoid such phrases in documentation, especially when you need to maintain so much of it because descriptions like this get forgotten very fast, and are rarely changed as a result.
+Probably, it is better to avoid such phrases in documentation, especially when you need to maintain so much of it because descriptions like this become forgotten very fast, and are rarely changed as a result.
