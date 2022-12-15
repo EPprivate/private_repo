@@ -12,8 +12,7 @@ There is no use case provided for this feature. The user is left unaware of the 
 
 The description of the `Alt+Shift+J` key combination in the following line is inaccurate:
 
-| You can press `Alt+J` again to go forward, or `Alt+Shift+J` to go back... |
-|---|
+> You can press `Alt+J` again to go forward, or `Alt+Shift+J` to go back...
 
 The wording in this sentence may lead someone to a conclusion, that it is possible to select similar fragments both downwards and upwards to the selection starting point, which is not the case. Pressing the `Alt+Shift+J` key combination does not allow you to select the matching fragment above the first selected element, it just  cancels the previous selection.
 
@@ -23,8 +22,7 @@ The wording in this sentence may lead someone to a conclusion, that it is possib
 
 The _hot tip_ about the caret cloning may be hard to reproduce because of the inaccurate description. The instruction contains the following line:
 
-| _Hot tip_: One more way to clone caret is to press `Ctrl` twice, and then move the caret up or down with arrows or with the mouse. |
-|---|
+> _Hot tip_: One more way to clone caret is to press `Ctrl` twice, and then move the caret up or down with arrows or with the mouse.
 
 However, if you press the `Ctrl` button twice, and then try to move the caret, you won't be able to do so because the **Run Anything** dialog is opened:
 
@@ -44,8 +42,7 @@ There is one more usage of the `Alt+J` key combination that is not described in 
 
 Not an issue, rather a comment. There is a following line in the article:
 
-| Multiple selection is a relatively new, very powerful editor feature... |
-|---|
+> Multiple selection is a relatively new, very powerful editor feature...
 
 However, it seems that this feature has been around for a while. Its description exists at the very least in the `2020.1` version of the documentation.
 
